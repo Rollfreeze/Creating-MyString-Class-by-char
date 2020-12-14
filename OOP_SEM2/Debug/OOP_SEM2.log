@@ -1,0 +1,7 @@
+﻿  Classes.cpp
+D:\STUDY\BALSA\OOP_SEM2_PROJECT\STRING\OOP_SEM2\Classes.cpp(41,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\STUDY\BALSA\OOP_SEM2_PROJECT\STRING\OOP_SEM2\Classes.cpp(48,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Display.cpp
+  main.cpp
+  Создание кода...
+  OOP_SEM2.vcxproj -> D:\STUDY\BALSA\OOP_SEM2_PROJECT\STRING\Debug\OOP_SEM2.exe
